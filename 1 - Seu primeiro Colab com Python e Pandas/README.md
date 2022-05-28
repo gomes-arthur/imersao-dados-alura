@@ -1,5 +1,7 @@
 ## Problema 1 - Precificação de Imóveis
 
+### Notebook no Colab - https://colab.research.google.com/drive/1moSUZcAzuPJvPWI2g7Bzjl0i1kp98Leh?usp=sharing
+
 - Eu quero saber se estou pagando bem ou mal por um imóvel.
 - Kaggle: site que disponibiliza base de dados.
 - Os dados usados na aula foram previamente limpados. Faz parte da área limpar os dados para enviá-los para a análise.

@@ -1,5 +1,7 @@
 ## 4 - **Missão Impossivel: Cruzando bases de Dados**
 
+### Notebook no Colab - https://colab.research.google.com/drive/1WzaYKTJuVoQ1_WeVdBwKsmkCV9PU7IGD?usp=sharing
+
 ```python
 import pandas as pd
 url = "https://gist.githubusercontent.com/tgcsantos/3bdb29eba6ce391e90df2b72205ba891/raw/22fa920e80c9fa209a9fccc8b52d74cc95d1599b/dados_imoveis.csv"

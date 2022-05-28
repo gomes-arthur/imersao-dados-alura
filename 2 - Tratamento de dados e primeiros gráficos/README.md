@@ -1,5 +1,7 @@
 ## **Tratamento de dados e primeiros gráficos**
 
+### Notebook no Colab - https://colab.research.google.com/drive/1tMp3O7ZKEeNft3s1zIxWyDplqNJo15Yt?usp=sharing
+
 - Cuidado com outliners porque eles podem confundir a nossa interpretação e manuseios dos dados.
 - É possível misturar mais de uma biblioteca, como `seaborn` e `matplotlib.pyplot` .
 - Código da aula
